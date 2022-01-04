@@ -4,3 +4,9 @@ In this Project I had developed a bot that will book movie tickets from bookmysh
 
  
 The aim of the project is to develop a bot that will book movie tickets from bookmyshow (atom tickets) based on the data given to the bot from excel. 
+
+**Input**
+![input](https://user-images.githubusercontent.com/89993455/148015894-d776151a-67b5-4add-8d24-30f7f12558e2.jpg)
+
+**Output**
+![output](https://user-images.githubusercontent.com/89993455/148015904-3c552ea8-e17c-4ad4-bff3-eab1ca54c081.jpg)
